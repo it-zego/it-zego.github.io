@@ -1,2 +1,2 @@
-# itzego.github.io
+# it-zego.github.io
 GitHub Pages
